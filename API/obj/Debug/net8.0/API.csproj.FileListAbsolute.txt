@@ -121,3 +121,8 @@
 /home/jzenon/Desktop/CTC-Repos/project/dotnet-angular-udemy/API/obj/Debug/net8.0/API.csproj.AssemblyReference.cache
 /home/jzenon/Desktop/CTC-Repos/project/dotnet-angular-udemy/API/obj/Debug/net8.0/API.csproj.CopyComplete
 /home/jzenon/Desktop/CTC-Repos/project/dotnet-angular-udemy/API/obj/Debug/net8.0/API.sourcelink.json
+/home/jzenon/Desktop/CTC-Repos/project/dotnet-angular-udemy/API/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/jzenon/Desktop/CTC-Repos/project/dotnet-angular-udemy/API/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/jzenon/Desktop/CTC-Repos/project/dotnet-angular-udemy/API/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/jzenon/Desktop/CTC-Repos/project/dotnet-angular-udemy/API/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/jzenon/Desktop/CTC-Repos/project/dotnet-angular-udemy/API/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
