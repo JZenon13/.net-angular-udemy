@@ -126,3 +126,7 @@
 /home/jzenon/Desktop/CTC-Repos/project/dotnet-angular-udemy/API/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
 /home/jzenon/Desktop/CTC-Repos/project/dotnet-angular-udemy/API/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
 /home/jzenon/Desktop/CTC-Repos/project/dotnet-angular-udemy/API/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/jzenon/Desktop/CTC-Repos/project/dotnet-angular-udemy/API/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/jzenon/Desktop/CTC-Repos/project/dotnet-angular-udemy/API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/jzenon/Desktop/CTC-Repos/project/dotnet-angular-udemy/API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/jzenon/Desktop/CTC-Repos/project/dotnet-angular-udemy/API/bin/Debug/net8.0/System.Security.Permissions.dll
